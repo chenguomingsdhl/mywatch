@@ -1,8 +1,8 @@
         {
     "urls":[
         {
-            "url": "https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "小苹果"
+            "url": "https://raw.githubusercontent.com/chenguomingsdhl/mywatch/main/page.json",
+            "name": "我自己"
         },
 	{
             "url": "https://yydsys.top/duo",
@@ -13,8 +13,8 @@
             "name": "🦐菜妮丝"
         },
         {
-            "url": "http://饭太硬.ga/tv",
-            "name": "饭太硬"
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+            "name": "Github"
         },
         {
             "url": "https://hutool.ml/tang",
