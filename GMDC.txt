@@ -8,6 +8,10 @@
             "url": "https://yydsys.top/duo",
             "name": "大聪明"
         },
+	{
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🦐菜妮丝"
+        },
         {
             "url": "http://饭太硬.ga/tv",
             "name": "饭太硬"
@@ -41,14 +45,6 @@
             "name": "肥猫"
         },
         {
-            "url": "http://drpy.site/js1",
-            "name": "小雅js"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝xBPQ"
-        },
-        {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊于"
         },
@@ -69,22 +65,6 @@
             "name": "老刘备"
         },
         {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "刘C"
-        },
-        {
-            "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
-            "name": "胖丫"
-        },
-        {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风XC"
-        },
-        {
-            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
-            "name": "甜蜜dlgt7"
-        },
-        {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "dxawi/github️"
         },
@@ -96,10 +76,6 @@
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
             "name": "D大"
         }, 
-       {
-            "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "ImABC"
-        },
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "神器每日推送"
