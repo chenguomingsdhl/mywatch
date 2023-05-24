@@ -56,7 +56,7 @@ https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF Sport +  Ⓖ" tvg-logo="https://i.imgur.com/MVNZ4gf.png" tvg-id="ORFSportPlus.at" group-title="Austria",ORF Sport +  Ⓖ
 https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/images/logo.png" tvg-id="CNA.sg" group-title="Singapore",CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://cms.sendhelper.com/wp-content/uploads/2020/07/cna.png" tvg-id="CNA.sg" group-title="Singapore",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-name="Servus TV    Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" tvg-id="ServusTVOsterreich.at" group-title="Austria",Servus TV    Ⓖ
