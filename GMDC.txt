@@ -17,8 +17,8 @@
             "name": "骚0"
         },
         {
-            "url": "https://hutool.ml/tang",
-            "name": "唐三"
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "欧歌"
         },
         {
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt ",
@@ -29,8 +29,8 @@
             "name": "🌹花花世界"
         },
         {
-            "url": "https://tv.5ye.cc",
-            "name": "2ha.cc"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米"
         },
 	{
             "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
