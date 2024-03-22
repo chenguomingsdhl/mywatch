@@ -13,8 +13,8 @@
             "name": "🦐菜妮丝"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
-            "name": "Github"
+            "url": "https://xhdwc.tk/0",
+            "name": "骚0"
         },
         {
             "url": "https://hutool.ml/tang",
